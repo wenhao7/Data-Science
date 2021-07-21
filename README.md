@@ -3,3 +3,5 @@ This repository contains some projects completed by me for the purpose of self l
 
 ## Contents
 * [Amazon Top 50 Books EDA](./amazon_eda.ipynb) - Exploratory data analysis on Top 50 bestselling books on Amazon from 2010-2020, data obtained by scraping the relevant Amazon pages and calling Google Books API to collect additional information for analysis.
+
+* [IMDB Text Classification](./IMDB Text Classification.ipynb) - Text classification modelling of IMDB dataset using sklearn and tensorflow
