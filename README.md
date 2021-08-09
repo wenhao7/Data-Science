@@ -6,4 +6,4 @@ This repository contains some projects completed by me for the purpose of self l
 
 * [IMDB Text Classification](https://github.com/wenhao7/Data-Science/blob/main/IMDB%20Text%20Classification/IMDB%20Text%20Classification.ipynb) - Text classification modelling of IMDB dataset using sklearn and tensorflow.
 
-* [Surface Air Temperature Exploration and Forecast](https://github.com/wenhao7/Data-Science/blob/main/Surface%20Air%20Temperature%20Exploration%20and%20Forecast/Mean%20Surface%20Air%20Temperature.ipynb) - Exploratory data and predictive analysis with ARIMA and LSTM on mean surface air temperature data from 1961-2020.
+* [Surface Air Temperature Exploration and Forecast](https://github.com/wenhao7/Data-Science/blob/main/Surface%20Air%20Temperature%20Exploration%20and%20Forecast/Mean%20Surface%20Air%20Temperature.ipynb) - Exploratory data and temperature forecasts with ARIMA and LSTM on mean surface air temperature data from 1961-2020.
