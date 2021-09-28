@@ -18,4 +18,6 @@ This repository contains some projects completed by me for the purpose of self l
 
 * ## Data Analysis and Visualisation
   * [Amazon Top 50 Books EDA](https://nbviewer.ipython.org/github/wenhao7/Data-Science/blob/f2b6a2d7e6648ee5d1ed647a80a24b7f17876237/Amazon%20Books%20EDA/amazon_eda.ipynb) - Exploratory data analysis on Top 50 bestselling books on Amazon from 2010-2020, data obtained by scraping the relevant Amazon pages and calling Google Books API to collect additional information for analysis.<br>
-    **Keywords:** Web Scraping, Plotly, scipy
+    **Keywords:** Web Scraping, Statistical Testing, Plotly, scipy
+  * [SQL Murder Mystery](https://github.com/wenhao7/Data-Science/blob/main/SQL%20Murder%20Mystery/SQL%20Murder%20Mystery.ipynb) - Solving a fun little murder mystery through querying a database. <br>
+    **Keywords:** SQL
