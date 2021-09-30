@@ -7,6 +7,8 @@ This repository contains some projects completed by me for the purpose of self l
     **Keywords:** Time-Series, Forecasting, Tableau, statsmodels, sklearn, Keras<br><br>
   * [Credit Card Fraud Detection](https://github.com/wenhao7/Data-Science/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb) - Exploration of an extremely imbalanced dataset and relevant feature engineering/data sampling methods used in building binary classification models to detect credit card fraud. <br>
     **Keywords:** Anomaly Detection, Imbalanced Classification, Dimensionality Reduction, SMOTE, sklearn<br><br>
+  * [Human Activity Recognition with Smartphones](https://github.com/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Classification.ipynb) - Building machine learning models to classify user activities and identify users from smartphone data. Accompanied by a separate [notebook](https://nbviewer.jupyter.org/github/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Analysis.ipynb) for data analysis. <br>
+    **Keywords:** Multiclass Classification, sklearn, LightGBM<br><br>
   * [Anime Recommendation System](https://github.com/wenhao7/Data-Science/blob/main/Anime%20Recommendation%20System/Anime%20Recommendation%20System.ipynb) - K-Means clustering and/or graph-based recommender system for anime titles working with text data. <br>
     **Keywords:** Content-Based Recommender, Natural Language Processing, Clustering, Graph, NetworkX, sklearn<br><br>
   * [Image Classification with Convolutional Neural Networks](https://github.com/wenhao7/Data-Science/blob/main/Image%20Classification%20with%20CNN/Image%20classification%20with%20CNN.ipynb) - Building a traditional CNN and a CNN using the InceptionV3 model for binary classification on the CelebA dataset.<br>
@@ -17,7 +19,9 @@ This repository contains some projects completed by me for the purpose of self l
     **Keywords:** Time-Series, Forecasting, statsmodels, sklearn, Keras
 
 * ## Data Analysis and Visualisation
+  * [Human Activity Recognition with Smartphones](https://nbviewer.jupyter.org/github/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Analysis.ipynb) - Data analysis and visualisation on accelerometer and gyroscope measurements from a smartphone. Accompanied by a separate [notebook](https://github.com/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Classification.ipynb) for multiclass classification. <br>
+    **Keywords:** Dimensionality Reduction, Singular Spectral Analysis, sklearn<br><br>
   * [Amazon Top 50 Books EDA](https://nbviewer.ipython.org/github/wenhao7/Data-Science/blob/f2b6a2d7e6648ee5d1ed647a80a24b7f17876237/Amazon%20Books%20EDA/amazon_eda.ipynb) - Exploratory data analysis on Top 50 bestselling books on Amazon from 2010-2020, data obtained by scraping the relevant Amazon pages and calling Google Books API to collect additional information for analysis.<br>
-    **Keywords:** Web Scraping, Statistical Testing, Plotly, scipy
+    **Keywords:** Web Scraping, Statistical Testing, Plotly, scipy<br><br>
   * [SQL Murder Mystery](https://github.com/wenhao7/Data-Science/blob/main/SQL%20Murder%20Mystery/SQL%20Murder%20Mystery.ipynb) - Solving a fun little murder mystery through querying a database. <br>
     **Keywords:** SQL
