@@ -16,9 +16,11 @@ This repository contains some projects completed by me for the purpose of self l
   * [Image Classification with Convolutional Neural Networks](https://github.com/wenhao7/Data-Science/blob/main/Image%20Classification%20with%20CNN/Image%20classification%20with%20CNN.ipynb) - Building a traditional CNN and a CNN using the InceptionV3 model for binary classification on the CelebA dataset.<br>
     **Keywords:** Computer Vision, Transfer Learning, Convolutional Neural Network, TensorFlow, Keras<br><br>
   * [IMDB Text Classification](https://github.com/wenhao7/Data-Science/blob/main/IMDB%20Text%20Classification/IMDB%20Text%20Classification.ipynb) - Text classification modelling of IMDB dataset using sklearn and tensorflow.<br>
-    **Keywords:** Natural Language Processing, Sentiment Analysis, BERT, nltk, sklearn, TensorFlow<br><br>
+    **Keywords:** Natural Language Processing, Sentiment Analysis, Transfer Learning, BERT, nltk, sklearn, TensorFlow<br><br>
   * [Surface Air Temperature Exploration and Forecast](https://github.com/wenhao7/Data-Science/blob/main/Surface%20Air%20Temperature%20Exploration%20and%20Forecast/Mean%20Surface%20Air%20Temperature.ipynb) - Exploratory data analysis and temperature forecasts with ARIMA and LSTM on mean surface air temperature data from 1961-2020.<br>
-    **Keywords:** Time-Series, Forecasting, statsmodels, sklearn, Keras
+    **Keywords:** Time-Series, Forecasting, statsmodels, sklearn, Keras<br><br>
+  * [Text Summarizer](https://github.com/wenhao7/Data-Science/blob/main/Text%20Summarizer/Text%20Summarizer.ipynb) - Simple implementaton of an extractive text summarizer based on word frequency and an abstractive text summarizer using transfer learning.<br>
+    **Keywords:** Natural Language Processing, Text Summarization, Web Scraping, Transfer Learning<br><br>
 
 * ## Data Analysis and Visualisation
   * [Human Activity Recognition with Smartphones](https://nbviewer.jupyter.org/github/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Analysis.ipynb) - Data analysis and visualisation on accelerometer and gyroscope measurements from a smartphone. Accompanied by a separate [notebook](https://github.com/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Classification.ipynb) for multiclass classification. <br>
