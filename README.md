@@ -3,6 +3,8 @@ This repository contains some projects completed by me for the purpose of self l
 
 ## Contents
 * ## Machine Learning
+  * [Handwriting Recognition](https://github.com/wenhao7/Data-Science/blob/main/Handwriting%20Recognition/Handwriting%20Recognition.ipynb) - Simple web application to read handwritten words in images. Achieved by a deep learning model classifying individual alphabets and an algorithm that groups alphabets from the same word together after prediction.<br>
+    **Keywords:** Computer Vision, Convolutional Neural Network, Tensorflow, Keras, Flask <br><br>
   * [Rainfall in Singapore](https://nbviewer.ipython.org/github/wenhao7/Data-Science/blob/f2b6a2d7e6648ee5d1ed647a80a24b7f17876237/Rainfall%20in%20Singapore/Rainfall%20in%20Singapore.ipynb) - Exploration and analysis of daily and monthly historical rainfall in Singapore from two separate data sources with interactive visualisation. Forecast monthly rainfall using ARIMA, ETS, LASSO Regression, and LSTM. Data extraction from weather.gov.sg can be found in this [python script](https://github.com/wenhao7/Data-Science/blob/main/Rainfall%20in%20Singapore/download_weather_gov.py). <br>
     **Keywords:** Time-Series, Forecasting, Tableau, statsmodels, sklearn, Keras<br><br>
   * [Credit Card Fraud Detection](https://github.com/wenhao7/Data-Science/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb) - Exploration of an extremely imbalanced dataset and relevant feature engineering/data sampling methods used in building binary classification models to detect credit card fraud. An alternative modelling method is explored [here](https://github.com/wenhao7/Data-Science/blob/main/Credit%20Card%20Fraud%20Detection).<br>
