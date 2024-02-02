@@ -2,6 +2,9 @@
 This repository contains some projects completed by me for the purpose of self learning/personal interest. Projects are presented in the form of iPython Notebooks with accompanying Python scripts as needed. Python libraries *numpy, pandas, matplotlib*, and *seaborn* are used in almost all of these notebooks.
 
 ## Contents
+* ## Capstone Projects
+  * [Google Advanced Data Analytics Professional Certificate](https://github.com/wenhao7/Data-Science/blob/main/Capstone%20Projects/Activity_%20Course%207%20Salifort%20Motors%20project%20lab_.ipynb) - Capstone project utilizing the PACE framework to tackle a business problem involving employee attrition. EDA and predictive modelling are utilised to gather insights for further recommendation to stakeholders.<br>
+  
 * ## Machine Learning
   * [Handwriting Recognition](https://github.com/wenhao7/Data-Science/blob/main/Handwriting%20Recognition/Handwriting%20Recognition.ipynb) - Simple web application to read handwritten words in images. Achieved by a deep learning model classifying individual alphabets and an algorithm that groups alphabets from the same word together after prediction.<br>
     **Keywords:** Computer Vision, Convolutional Neural Network, Tensorflow, Keras, Flask <br><br>
