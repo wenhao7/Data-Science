@@ -20,7 +20,7 @@ This repository contains some projects completed by me for the purpose of self l
     **Keywords:** Content-Based Recommender, Natural Language Processing, Clustering, Graph, NetworkX, sklearn<br><br>
   * [Image Classification with Convolutional Neural Networks](https://github.com/wenhao7/Data-Science/blob/main/Image%20Classification%20with%20CNN/Image%20classification%20with%20CNN.ipynb) - Building a traditional CNN and a CNN using the InceptionV3 model for binary classification on the CelebA dataset.<br>
     **Keywords:** Computer Vision, Transfer Learning, Convolutional Neural Network, TensorFlow, Keras<br><br>
-  * [IMDB Text Classification](https://github.com/wenhao7/Data-Science/blob/main/IMDB%20Text%20Classification/IMDB%20Text%20Classification.ipynb) - Text classification modelling of IMDB dataset using sklearn and tensorflow.<br>
+  * [IMDB Text Classification](https://github.com/wenhao7/Data-Science/blob/main/IMDB%20Text%20Classfication/IMDB%20Text%20Classification.ipynb) - Text classification modelling of IMDB dataset using sklearn and tensorflow.<br>
     **Keywords:** Natural Language Processing, Sentiment Analysis, Transfer Learning, BERT, nltk, sklearn, TensorFlow<br><br>
   * [Surface Air Temperature Exploration and Forecast](https://github.com/wenhao7/Data-Science/blob/main/Surface%20Air%20Temperature%20Exploration%20and%20Forecast/Mean%20Surface%20Air%20Temperature.ipynb) - Exploratory data analysis and temperature forecasts with ARIMA and LSTM on mean surface air temperature data from 1961-2020.<br>
     **Keywords:** Time-Series, Forecasting, statsmodels, sklearn, Keras<br><br>
