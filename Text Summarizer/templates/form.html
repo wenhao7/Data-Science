@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+    <body>
+    <h1 style="color:gray;">
+        Please enter your text or a webpage URL in the box below! 
+    </h1>
+         <form action="/data" method = "POST">
+            <p>
+                <textarea rows="6" cols="70" name="input"></textarea>    
+                <br>            
+                Check this box if a URL has been provided <input type="checkbox" name="url"/>
+            </p>
+            <p>
+                <h3>Please select summarization approaches to output</h3>
+                Extractive <input type="checkbox" name="extractive"/>
+                Abstractive <input type="checkbox" name="abstractive"/>
+            </p>
+            
+            <p><input type = "submit" value = "Submit" /></p>
+        </form>
+    </body>
+
+</html>

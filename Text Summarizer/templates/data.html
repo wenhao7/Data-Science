@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+    <head>
+        <title>Summary</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+    <div class="wrapper">
+        <div class="box1">
+            <h2>Input Text</h2>
+            <p>{{summary_data.article_text}}</p>
+            <p>URL: {{summary_data.url}}</p>
+        </div>
+        <div class="box2">
+            <h2>Extractive Summary</h2>
+            <p>{{summary_data.extractive_summary}}
+        </div>
+        <div class="box3">
+            <h2>Abstractive Summary</h2>
+            <p>{{summary_data.abstractive_summary}}
+        </div>
+    </div>
