@@ -24,8 +24,8 @@ This repository contains some projects completed by me for the purpose of self l
     **Keywords:** Natural Language Processing, Sentiment Analysis, Transfer Learning, BERT, nltk, sklearn, TensorFlow<br><br>
   * [Surface Air Temperature Exploration and Forecast](https://github.com/wenhao7/Data-Science/blob/main/Surface%20Air%20Temperature%20Exploration%20and%20Forecast/Mean%20Surface%20Air%20Temperature.ipynb) - Exploratory data analysis and temperature forecasts with ARIMA and LSTM on mean surface air temperature data from 1961-2020.<br>
     **Keywords:** Time-Series, Forecasting, statsmodels, sklearn, Keras<br><br>
-  * [Text Summarizer](https://github.com/wenhao7/Data-Science/blob/main/Text%20Summarizer/Text%20Summarizer.ipynb) - Simple implementaton of an extractive text summarizer based on word frequency and an abstractive text summarizer using transfer learning.<br>
-    **Keywords:** Natural Language Processing, Text Summarization, Web Scraping, Transfer Learning<br><br>
+  * [Text Summarizer](https://github.com/wenhao7/Data-Science/blob/main/Text%20Summarizer/README.md) - Implementation of a web application containing an extractive text summarizer based on word frequency and an abstractive text summarizer using transfer learning of Google's T5 model.<br>
+    **Keywords:** Natural Language Processing, Text Summarization, Web Scraping, Transfer Learning, Flask<br><br>
 
 * ## Data Analysis and Visualisation
   * [Human Activity Recognition with Smartphones](https://nbviewer.jupyter.org/github/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Analysis.ipynb) - Data analysis and visualisation on accelerometer and gyroscope measurements from a smartphone. Accompanied by a separate [notebook](https://github.com/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Classification.ipynb) for multiclass classification. <br>
