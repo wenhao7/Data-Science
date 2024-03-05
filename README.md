@@ -2,12 +2,14 @@
 This repository contains some projects completed by me for the purpose of self learning/personal interest. Projects are presented in the form of iPython Notebooks with accompanying Python scripts as needed. Python libraries *numpy, pandas, matplotlib*, and *seaborn* are used in almost all of these notebooks.
 
 ## Contents
-* ## Capstone Projects
-  * [Google Advanced Data Analytics Professional Certificate](https://github.com/wenhao7/Data-Science/blob/main/Capstone%20Projects/Activity_%20Course%207%20Salifort%20Motors%20project%20lab_.ipynb) - Capstone project utilizing the PACE framework to tackle a business problem involving employee attrition. EDA and predictive modelling are utilised to gather insights for further recommendation to stakeholders.<br>
+* ## Capstone Projects/Miscellaneous Projects
+  * [Google Advanced Data Analytics Professional Certificate](https://github.com/wenhao7/Data-Science/blob/main/Capstone%20Projects/Activity_%20Course%207%20Salifort%20Motors%20project%20lab_.ipynb) - Capstone project utilizing the PACE framework to tackle a business problem involving employee attrition. EDA and predictive modelling are utilised to gather insights for further recommendation to stakeholders.<br><br>
+  * [Python Drawing Canvas to StableDiffusion](https://github.com/wenhao7/Python2SD/tree/main) - Python script that creates a GUI for users to draw on, generating images in realtime using StableDiffusion while the user is drawing.<br>
+    **Keywords:** StableDiffusion, Generative AI, API, User Interface
   
 * ## Machine Learning
   * [Handwriting Recognition](https://github.com/wenhao7/Data-Science/blob/main/Handwriting%20Recognition/Handwriting%20Recognition.ipynb) - Simple web application to read handwritten words in images. Achieved by a deep learning model classifying individual alphabets and an algorithm that groups alphabets from the same word together after prediction.<br>
-    **Keywords:** Computer Vision, Convolutional Neural Network, Tensorflow, Keras, Flask <br><br>
+    **Keywords:** Computer Vision, Convolutional Neural Network, Tensorflow, Keras, Flask, User Interface <br><br>
   * [Rainfall in Singapore](https://nbviewer.ipython.org/github/wenhao7/Data-Science/blob/f2b6a2d7e6648ee5d1ed647a80a24b7f17876237/Rainfall%20in%20Singapore/Rainfall%20in%20Singapore.ipynb) - Exploration and analysis of daily and monthly historical rainfall in Singapore from two separate data sources with interactive visualisation. Forecast monthly rainfall using ARIMA, ETS, LASSO Regression, and LSTM. Data extraction from weather.gov.sg can be found in this [python script](https://github.com/wenhao7/Data-Science/blob/main/Rainfall%20in%20Singapore/download_weather_gov.py). <br>
     **Keywords:** Time-Series, Forecasting, Tableau, statsmodels, sklearn, Keras<br><br>
   * [Credit Card Fraud Detection](https://github.com/wenhao7/Data-Science/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb) - Exploration of an extremely imbalanced dataset and relevant feature engineering/data sampling methods used in building binary classification models to detect credit card fraud. An alternative modelling method is explored [here](https://github.com/wenhao7/Data-Science/blob/main/Credit%20Card%20Fraud%20Detection).<br>
@@ -25,7 +27,7 @@ This repository contains some projects completed by me for the purpose of self l
   * [Surface Air Temperature Exploration and Forecast](https://github.com/wenhao7/Data-Science/blob/main/Surface%20Air%20Temperature%20Exploration%20and%20Forecast/Mean%20Surface%20Air%20Temperature.ipynb) - Exploratory data analysis and temperature forecasts with ARIMA and LSTM on mean surface air temperature data from 1961-2020.<br>
     **Keywords:** Time-Series, Forecasting, statsmodels, sklearn, Keras<br><br>
   * [Text Summarizer](https://github.com/wenhao7/Data-Science/blob/main/Text%20Summarizer/README.md) - Implementation of a web application containing an extractive text summarizer based on word frequency and an abstractive text summarizer using transfer learning of Google's T5 model.<br>
-    **Keywords:** Natural Language Processing, Text Summarization, Web Scraping, Transfer Learning, Flask<br><br>
+    **Keywords:** Natural Language Processing, Text Summarization, Web Scraping, Transfer Learning, Flask, User interface<br><br>
 
 * ## Data Analysis and Visualisation
   * [Human Activity Recognition with Smartphones](https://nbviewer.jupyter.org/github/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Analysis.ipynb) - Data analysis and visualisation on accelerometer and gyroscope measurements from a smartphone. Accompanied by a separate [notebook](https://github.com/wenhao7/Data-Science/blob/main/Human%20Activity%20Recognition%20with%20Smartphones/Human%20Activity%20Recognition%20with%20Smartphones%20-%20Classification.ipynb) for multiclass classification. <br>
