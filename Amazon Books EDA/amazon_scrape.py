@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  2 19:51:53 2021
-
-@author: wenhao
-"""
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
