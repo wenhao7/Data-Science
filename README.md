@@ -1,3 +1,5 @@
+# I am no longer actively updating this repo, please find the latest updates on my [GitHub Pages](https://wenhao7.github.io/)
+
 # Data-Science
 This repository contains some projects completed by me for the purpose of self learning/personal interest. Projects are presented in the form of iPython Notebooks with accompanying Python scripts as needed. Python libraries *numpy, pandas, matplotlib*, and *seaborn* are used in almost all of these notebooks.<br><br>
 Kaggle notebooks (practice/competition) can be found [here](https://www.kaggle.com/wenhaoloo/code)
